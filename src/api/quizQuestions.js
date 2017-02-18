@@ -22,6 +22,14 @@ var quizQuestions = [
     {
         question: "I feel good when someone 'enters into my world.'",
         type: "attention"
+    },
+    {
+        question: "It's iimportant for me to know 'where I stand' with those who are in authority over me.",
+        type: "approval"
+    },
+    {
+        question: "It is meaningful when someone notices that I need help and then they offer to get involved.",
+        type: "support"
     }
 ];
 
